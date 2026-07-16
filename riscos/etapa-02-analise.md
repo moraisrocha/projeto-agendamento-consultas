@@ -32,6 +32,7 @@ Para cada risco:
 + Justificativa da classificação
 
 2. Matriz Qualitativa de Riscos
+
 | Probabilidade\Impacto | Baixo | Médio | Alto |
 | ----------------------- | ----- | ----- | ---- |
 | **Alta** | | | |

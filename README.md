@@ -17,3 +17,16 @@ Considere ainda que:
 
 + a equipe é composta por 4 desenvolvedores e 1 tester
 + a integração com o sistema externo é crítica para a entrega do projeto
+
+### Objetivo
+Utilizar a IA Generativa para identificação, analise e aplicação de respostas a riscos que um projeto de construção de software pode vir a ter.
+
+### Organização Repositório
+
+projeto denominado <**projeto-agendamento-consultas**>
+- arquivo README.md (este arquivo)
+- diretorio denominado <**riscos**>
+  - arquivo denominado <**etapa-01-identificacao.md**> - contendo os riscos
+  - arquivo denominado <**etapa-02-analise.md**> - contendo a analise de impacto dos riscos
+  - arquivo denominado <**etapa-03-respostas.md**> - contendo ações para os riscos
+- diretorio denominado <**comunicacao**>  

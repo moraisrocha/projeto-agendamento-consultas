@@ -1,3 +1,5 @@
+Com base no contexto apresentado, utilizei a LLM do Gemini para apoiar a identificação de riscos associados ao projeto.
+
 # Prompt - identificacao
 
 Persona: Você atua como um especialista em gerenciamento de riscos em projetos de software, com experiência na identificação de riscos técnicos, organizacionais e de processo, especialmente em contextos de alta incerteza.

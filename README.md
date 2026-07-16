@@ -19,7 +19,7 @@ Considere ainda que:
 + a integração com o sistema externo é crítica para a entrega do projeto
 
 ### Objetivo
-Utilizar a IA Generativa para identificação, analise e aplicação de respostas a riscos que um projeto de construção de software pode vir a ter.
+Utilizar a IA Generativa do Google (Gemini) para identificação, analise e aplicação de respostas a riscos que um projeto de construção de software pode vir a ter.
 
 ### Organização Repositório
 
@@ -29,4 +29,8 @@ projeto denominado <**projeto-agendamento-consultas**>
   - arquivo denominado <**etapa-01-identificacao.md**> - contendo os riscos
   - arquivo denominado <**etapa-02-analise.md**> - contendo a analise de impacto dos riscos
   - arquivo denominado <**etapa-03-respostas.md**> - contendo ações para os riscos
-- diretorio denominado <**comunicacao**>  
+- diretorio denominado <**comunicacao**>
+  - arquivo denominado <**status-stakeholders.md**> - contendo a comunicacao da situacao atual do projeto
+- diretorio denominado <**prompts**>
+  - arquivo denominado <**riscos.md**> - contendo os prompts dos arquivos contidos no diretorio **riscos**
+  - arquivo denominado <**comunicacao.md**> - contendo os prompts dos arquivos contidos no diretorio **comunicacao**
